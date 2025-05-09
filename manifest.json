@@ -1,10 +1,20 @@
 {
   "name": "Ad Image Grid",
+  "organization": "Your Organization Name",
   "description": "Displays ad images in a grid with key metrics",
-  "data": {
-    "dimensions": 1,
-    "metrics": 3
-  },
-  "style": {},
-  "script": "index.js"
+  "logoUrl": "https://yourdomain.com/logo.png",
+  "supportUrl": "https://yourdomain.com/support",
+  "packageUrl": "https://yourdomain.com/package",
+  "devMode": true,
+  "components": [
+    {
+      "id": "adImageGrid",
+      "name": "Ad Image Grid",
+      "description": "A grid of ad images with metrics",
+      "iconUrl": "https://yourdomain.com/icon.png",
+      "resource": {
+        "js": "https://raw.githubusercontent.com/JustTheAverageJoe/looker_custom_script_test_123123123/main/index.js"
+      }
+    }
+  ]
 }
