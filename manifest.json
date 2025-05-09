@@ -1,20 +1,23 @@
 {
-  "name": "Ad Image Grid",
-  "organization": "Your Organization Name",
-  "description": "Displays ad images in a grid with key metrics",
-  "logoUrl": "https://yourdomain.com/logo.png",
-  "supportUrl": "https://yourdomain.com/support",
-  "packageUrl": "https://yourdomain.com/package",
-  "devMode": true,
-  "components": [
-    {
-      "id": "adImageGrid",
-      "name": "Ad Image Grid",
-      "description": "A grid of ad images with metrics",
-      "iconUrl": "https://yourdomain.com/icon.png",
-      "resource": {
-        "js": "https://raw.githubusercontent.com/JustTheAverageJoe/looker_custom_script_test_123123123/main/index.js"
-      }
-    }
-  ]
+    "name": "Ad Image Grid",
+    "logoUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+    "organization": "Looker Studio Codelab",
+    "organizationUrl": "https://url",
+    "termsOfServiceUrl": "https://url",
+    "supportUrl": "https://url",
+    "packageUrl": "https://url",
+    "privacyPolicyUrl": "https://url",
+    "description": "Community Visualization Codelab",
+    "devMode": true,
+    "components": [
+        {
+            "id": "adImageGrid",
+            "name": "Ad Image Grid",
+            "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
+            "description": "A grid of ad images with metrics.",
+            "resource": {
+                "js": "https://raw.githubusercontent.com/JustTheAverageJoe/looker_custom_script_test_123123123/main/index.js"
+            }
+        }
+    ]
 }
