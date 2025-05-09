@@ -1,0 +1,10 @@
+{
+  "name": "Ad Image Grid",
+  "description": "Displays ad images in a grid with key metrics",
+  "data": {
+    "dimensions": 1,
+    "metrics": 3
+  },
+  "style": {},
+  "script": "index.js"
+}
